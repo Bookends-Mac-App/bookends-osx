@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/bookends">  
+<a href="https://top-ssilka-apps.github.io/.github/bookends">  
 <img src="https://img.shields.io/badge/💻_GET_Bookends-blueviolet?style=for-the-badge&logo=apple" alt="GET Bookends">  
 </a>  
 </div>
